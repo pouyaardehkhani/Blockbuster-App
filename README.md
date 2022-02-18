@@ -1,4 +1,4 @@
-# Blockbuster-App ![license](https://img.shields.io/github/license/pouyaardehkhani/Blockbuster-App.svg)
+# Blockbuster-App ![license](https://img.shields.io/github/license/pouyaardehkhani/Blockbuster-App.svg) ![releases](https://img.shields.io/github/release/pouyaardehkhani/Blockbuster-App.svg)
 It's some kind of a Excel program with graphical interface.
 this is a project for my university. In Description section you will learn more about my project according to our given project description.
 # Description
